@@ -48,3 +48,4 @@ As well as the spending question, scores by school size remained unchanged from 
 Also scores by school type were unchanged after filtering ninth grade scores.
 
 ## Summary
+As a conclusion, filtering ninth grade scores from the analyisis affected the average scores and the percentage scores in both district and school summaries, even though spending, size and by type scores didnt suffer any change.
