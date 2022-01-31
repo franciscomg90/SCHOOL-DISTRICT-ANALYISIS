@@ -7,7 +7,7 @@ The object of this project is to retreive and repeat the School-District analysi
 
 
 ## Results
-###>**How is the district summary affected?**
+>**How is the district summary affected?**
 
 Previous
 
@@ -18,7 +18,7 @@ New
 ![new_district](https://github.com/franciscomg90/SCHOOL-DISTRICT-ANALYISIS/blob/main/Resources/New_disctrict.PNG)
 
 
-###>**How is the school summary affected?**
+>**How is the school summary affected?**
 
 Previous
 
@@ -28,11 +28,11 @@ New
 
 ![new_school](https://github.com/franciscomg90/SCHOOL-DISTRICT-ANALYISIS/blob/main/Resources/new_school.PNG)
 
-###>**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+>**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
 Overall it didn't affected the raking of Thomas High School at all at least in the School Summary.
 
-###>**_How does replacing the ninth-grade scores affect the following:_**
+>**_How does replacing the ninth-grade scores affect the following:_**
 >>**Math and reading scores by grade**
 Well, if you guys look at the Average Math & Reading Scores respectively on school summary previously shown, you will note that the Math avg. went down while the Reading avg. went up after removing the ninght grade scores.
 
