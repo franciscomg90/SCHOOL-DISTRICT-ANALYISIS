@@ -29,6 +29,7 @@ New
 ![new_school](https://github.com/franciscomg90/SCHOOL-DISTRICT-ANALYISIS/blob/main/Resources/new_school.PNG)
 
 >**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+
 Overall it didn't affected the raking of Thomas High School at all at least in the School Summary.
 
 >**_How does replacing the ninth-grade scores affect the following:_**
@@ -37,12 +38,13 @@ Well, if you guys look at the Average Math & Reading Scores respectively on scho
 
 ![old_avg](https://github.com/franciscomg90/SCHOOL-DISTRICT-ANALYISIS/blob/main/Resources/old_avg_scores.PNG) ![new_avg](https://github.com/franciscomg90/SCHOOL-DISTRICT-ANALYISIS/blob/main/Resources/new_avg_scores.png)
 
->**Scores by school spending**
+>>**Scores by school spending**
 Scores by spending continued being the same as the starter analysis.
 
->**Scores by school size**
->As well as the spending question, scores by school size remained unchanged from the previous analysis.
->**Scores by school type**
+>>**Scores by school size**
+As well as the spending question, scores by school size remained unchanged from the previous analysis.
+
+>>**Scores by school type**
 Also scores by school type were unchanged after filtering ninth grade scores.
 
 ## Summary
