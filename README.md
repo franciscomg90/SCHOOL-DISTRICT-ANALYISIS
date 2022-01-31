@@ -7,7 +7,7 @@ The object of this project is to retreive and repeat the School-District analysi
 
 
 ## Results
->**_How is the district summary affected?_**
+>**How is the district summary affected?**
 
 Previous
 
